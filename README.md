@@ -1,0 +1,2 @@
+# Coinpayu
+Coinpayu Earning Platform
